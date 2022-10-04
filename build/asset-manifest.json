@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emileateo/static/css/main.ab576813.css",
+    "main.js": "/emileateo/static/js/main.cea835ed.js",
+    "static/js/787.917e5211.chunk.js": "/emileateo/static/js/787.917e5211.chunk.js",
+    "static/media/background_blur.jpg": "/emileateo/static/media/background_blur.5884c797bb652a81f601.jpg",
+    "index.html": "/emileateo/index.html",
+    "main.ab576813.css.map": "/emileateo/static/css/main.ab576813.css.map",
+    "main.cea835ed.js.map": "/emileateo/static/js/main.cea835ed.js.map",
+    "787.917e5211.chunk.js.map": "/emileateo/static/js/787.917e5211.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab576813.css",
+    "static/js/main.cea835ed.js"
+  ]
+}
